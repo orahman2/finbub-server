@@ -1,1 +1,1 @@
-# finbub-ui
+# finbub-server
