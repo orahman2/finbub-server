@@ -1,0 +1,19 @@
+{
+  "name": "finbub-server",
+  "version": "1.0.0",
+  "description": "Server-side code for finbub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orahman2/finbub-server.git"
+  },
+  "author": "Omar Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orahman2/finbub-server/issues"
+  },
+  "homepage": "https://github.com/orahman2/finbub-server#readme"
+}
